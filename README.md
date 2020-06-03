@@ -4,11 +4,12 @@ This article serves as a note of the course Organizational Design and Management
 
 It took me xxx hours to finish this course including writing this article.
 
-This course is composed of four models 
-**Module1:Evaluating your idea**
-**odule2:Managing people**
-**Module3:Designing organizations** 
-**Module4:Re-designing for growth**
+This course is composed of four models
+
+## **Module1:Evaluating your idea**
+## **Module2:Managing people**
+## **Module3:Designing organizations** 
+## **Module4:Re-designing for growth**
 
 **Introductory readings and videos**
 *[Lectures aren't just boring, they're Ineffective, too] (https://www.sciencemag.org/news/2014/05/lectures-arent-just-boring-theyre-ineffective-too-study-finds) 
