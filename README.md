@@ -16,6 +16,7 @@ This course is composed of four models
 ---
 ## Module 1 
 **Introductory readings and videos**
+
 [**Lectures aren't just boring, they're Ineffective, too**](https://www.sciencemag.org/news/2014/05/lectures-arent-just-boring-theyre-ineffective-too-study-finds)
 
 [**Learning By Thinking: How Reflection Improves Performance**](https://hbswk.hbs.edu/item/learning-by-thinking-how-reflection-improves-performance)
