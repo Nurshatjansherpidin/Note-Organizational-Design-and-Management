@@ -16,9 +16,9 @@ This course is composed of four models
 ---
 ## Module 1 
 **Introductory readings and videos**
-[Lectures aren't just boring, they're Ineffective, too](https://www.sciencemag.org/news/2014/05/lectures-arent-just-boring-theyre-ineffective-too-study-finds) 
-*[Learning By Thinking: How Reflection Improves Performance](https://hbswk.hbs.edu/item/learning-by-thinking-how-reflection-improves-performance)
-*[Giada di Stefano @HECParis: Why do we sanction norm violations?](https://youtu.be/aBe_dMtICJs)
+[**Lectures aren't just boring, they're Ineffective, too**](https://www.sciencemag.org/news/2014/05/lectures-arent-just-boring-theyre-ineffective-too-study-finds) 
+[**Learning By Thinking: How Reflection Improves Performance**](https://hbswk.hbs.edu/item/learning-by-thinking-how-reflection-improves-performance)
+[**Giada di Stefano @HECParis: Why do we sanction norm violations?**](https://youtu.be/aBe_dMtICJs)
 
 ### Lesson 1 The value of your idea
 This module focuses on the case of a French startup D-vine, a revolutionary wine maker, to know more please [D-Vine](https://www.10-vins.com/en/the-d-vine)
