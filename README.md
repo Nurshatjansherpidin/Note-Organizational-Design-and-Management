@@ -16,15 +16,16 @@ This course is composed of four models
 ---
 ## Module 1 
 **Introductory readings and videos**
-[**Lectures aren't just boring, they're Ineffective, too**](https://www.sciencemag.org/news/2014/05/lectures-arent-just-boring-theyre-ineffective-too-study-finds) 
+[**Lectures aren't just boring, they're Ineffective, too**](https://www.sciencemag.org/news/2014/05/lectures-arent-just-boring-theyre-ineffective-too-study-finds)
+
 [**Learning By Thinking: How Reflection Improves Performance**](https://hbswk.hbs.edu/item/learning-by-thinking-how-reflection-improves-performance)
+
 [**Giada di Stefano @HECParis: Why do we sanction norm violations?**](https://youtu.be/aBe_dMtICJs)
 
 ### Lesson 1 The value of your idea
 This module focuses on the case of a French startup D-vine, a revolutionary wine maker, to know more please [D-Vine](https://www.10-vins.com/en/the-d-vine)
 - How to evaluate your idea
-	- three dimensions of value
-	- Concepts to master
+* three dimensions of value
 > Value creation = the difference of willingness-to-pay of the consumer and the willingness-to-sell of the supplier.
 - say you want to buy a basket of eggs, you are willing to pay 5$ and seller is willing to sell it for 3$ then the value created is 5-3=2$
 > value captured 
